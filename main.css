@@ -1,0 +1,39 @@
+ /*Diego Garcia 
+diegarci@uat.edu
+6/20/24
+*/
+body{
+	background-color:aquamarine ;
+	color:brown;
+}
+
+nav{
+	height : 200px;
+	width : 200px;
+	float: left;
+	padding: 5px;
+	line-height : 30px;
+}
+
+footer{
+	text-align: center;
+	margin-left: 10px;
+}
+
+#memeImage{
+	margin-right: 200px;
+	image-orientation:center;
+}
+header{
+	text-align:center;
+	
+}
+
+.Button{
+align-items: center;
+background-color: blanchedalmond;
+width : 200px;
+
+
+
+}
